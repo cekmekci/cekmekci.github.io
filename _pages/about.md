@@ -14,8 +14,6 @@ Research Interests
 ---
 Inverse problems arising in image processing and computational imaging applications. Recently, I focus on Plug-and-Play methods, deep unrolling methods, uncertainty quantification, and learning-based modeling for imaging applications.
 
-
-
 News
 ---
 * One paper is accepted in [2nd Learning for Computational Imaging Workshop at ICCV 2021](https://sites.google.com/view/lci-iccv2021). 
