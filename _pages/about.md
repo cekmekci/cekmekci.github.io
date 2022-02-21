@@ -10,6 +10,11 @@ redirect_from:
 
 Hi! I am [Canberk Ekmekci](http://ipa-reader.xyz/?text=d%CA%92anb%C9%9B%C9%BEk%CA%B0%20ek%CC%9Fmek%CC%9Fd%CA%92i). I received my B.S. degree from Electrical and Electronics Engineering Department, Koc University, Turkey, in 2019. I am currently a Ph.D. student at the Signal, Data, and Imaging Sciences Laboratory (SDIS), University of Rochester, Rochester, New York, USA.
 
+Research Interests
+---
+Inverse problems arising in image processing and computational imaging applications. Recently, I focus on Plug-and-Play methods, deep unrolling methods, uncertainty quantification, and learning-based modeling for imaging applications.
+
+
 
 News
 ---
