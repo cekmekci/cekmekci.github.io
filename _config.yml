@@ -83,11 +83,11 @@ author:
   name             : "Canberk Ekmekci"
   avatar           : "profile.png"
   bio              : "Ph.D. Student at University of Rochester, Department of Electrical and Computer Engineering"
-  location         : "Rochester, New York, USA"
+  location         : 
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=YQSEA6IAAAAJ&hl=en"
-  email            : 
+  email            :
   researchgate     : "https://www.researchgate.net/profile/Canberk-Ekmekci"
   uri              :
   bitbucket        :
