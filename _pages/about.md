@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is [Canberk Ekmekci](http://ipa-reader.xyz/?text=d%CA%92anb%C9%9B%C9%BEk%CA%B0%20ek%CC%9Fmek%CC%9Fd%CA%92i). I am a Ph.D. student at the Signal, Data, and Imaging Sciences Laboratory, University of Rochester, New York, USA. My main research area is computational imaging. I am currently focusing on Plug-and-Play methods, deep unrolling methods, uncertainty quantification, and learning-based modeling for imaging applications. I have a strong interest in image reconstruction, statistical modeling and inference, machine learning, and convex optimization.
-
+Hi! I am [Canberk Ekmekci](http://ipa-reader.xyz/?text=d%CA%92anb%C9%9B%C9%BEk%CA%B0%20ek%CC%9Fmek%CC%9Fd%CA%92i). I am currently a third-year Ph.D. student in the Signal, Data, and Imaging Sciences (SDIS) Lab with the Department of Electrical and Computer Engineering at the University of Rochester. My research lies in the intersection of computational imaging and deep learning. Recently, I have been focusing on learning-based modeling for imaging applications, Plug-and-Play/RED algorithms, deep algorithmic unrolling, and the problem of uncertainty characterization for imaging inverse problems. 
 
 
 News
