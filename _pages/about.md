@@ -8,12 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am [Canberk Ekmekci](http://ipa-reader.xyz/?text=d%CA%92anb%C9%9B%C9%BEk%CA%B0%20ek%CC%9Fmek%CC%9Fd%CA%92i). I am currently a fourth-year Ph.D. student in the Signal, Data, and Imaging Sciences (SDIS) Lab with the Department of Electrical and Computer Engineering at the University of Rochester. My research lies in the intersection of computational imaging and deep learning. Recently, I have been focusing on learning-based modeling for imaging applications, Plug-and-Play/RED algorithms, deep algorithmic unrolling, and the problem of uncertainty characterization for imaging inverse problems. 
+Hello, I am Canberk Ekmekci (pronounced Jahn-burk Ehk-mehk-jee), a fourth-year Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.hajim.rochester.edu/ece/) at the [University of Rochester](https://www.rochester.edu/). I received my B.S. degree in [Electrical and Electronics Engineering](https://ee.ku.edu.tr/) from [Koc University](https://www.ku.edu.tr/), Istanbul, Turkey in 2019. I am currently conducting my research under the guidance of [Prof. Mujdat Cetin](https://scholar.google.com.tr/citations?user=nq7tuDkAAAAJ&hl=en) in the [Signal, Data, and Imaging Sciences (SDIS) Lab](https://labsites.rochester.edu/sdis/people/). As a part of collaborative projects, I also hold a secondary membership in the [University of Rochester Seismological Laboratory (URSeismo)](http://www.sas.rochester.edu/ees/urseismo/current-members/).
 
+My research interests reside primarily in the field of computational imaging, with a specific focus on developing and analyzing algorithms for imaging inverse problems. Recently I focus on the following research topics:
+* Learning-based modeling for imaging applications
+* Plug-and-Play algorithms
+* Deep algorithmic unrolling for image reconstruction
+* Uncertainty characterization for imaging inverse problems
+* Automatic parameter tuning for imaging algorithms
 
 News
 ---
-* One paper is submitted to [Geophysical Journal International](https://academic.oup.com/gji)
+* One paper is submitted to [Geophysical Journal International](https://academic.oup.com/gji). The preprint is available [here](https://www.authorea.com/users/545136/articles/647115-on-the-detection-of-upper-mantle-discontinuities-with-radon-transformed-ps-receiver-functions-crisp-rf).
 * One paper is accepted in [Electronic Imaging 2023](https://www.imaging.org/site/IST/IST/Conferences/EI/EI2023/Conference/C_COIMG.aspx).
 * One paper is accepted in [IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852).
 * One paper is accepted in [2nd Learning for Computational Imaging Workshop at ICCV 2021](https://sites.google.com/view/lci-iccv2021).
