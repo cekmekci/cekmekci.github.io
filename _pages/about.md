@@ -19,6 +19,7 @@ My research interests reside primarily in the field of computational imaging, wi
 
 News
 ---
+* One paper is accepted in [Deep Learning and Inverse Problems Workshop at NeurIPS 2023](https://deep-inverse.org/index.html).
 * One paper is submitted to [Geophysical Journal International](https://academic.oup.com/gji). The preprint is available [here](https://www.authorea.com/users/545136/articles/647115-on-the-detection-of-upper-mantle-discontinuities-with-radon-transformed-ps-receiver-functions-crisp-rf).
 * One paper is accepted in [Electronic Imaging 2023](https://www.imaging.org/site/IST/IST/Conferences/EI/EI2023/Conference/C_COIMG.aspx).
 * One paper is accepted in [IEEE Transactions on Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852).
