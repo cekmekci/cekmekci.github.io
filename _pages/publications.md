@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+
+* **Canberk Ekmekci** and Mujdat Cetin, "Quantifying Generative Model Uncertainty in Posterior Sampling Methods for Computational Imaging," in NeurIPS 2023 Workshop on Deep Learning and Inverse Problems, 2023. [[pdf](https://openreview.net/forum?id=VqFHhTYonI)]
+
 * **Canberk Ekmekci** and Mujdat Cetin, "Automatic parameter tuning for Plug-and-Play algorithms using generalized cross validation and Stein's unbiased risk estimation for linear inverse problems in computational imaging," in IS&T International Symposium on Electronic Imaging, 2023. [[pdf](https://library.imaging.org/ei/articles/35/14/COIMG-170)]
 
 * **Canberk Ekmekci** and Mujdat Cetin, "Uncertainty Quantification for Deep Unrolling-Based Computational Imaging," in IEEE Transactions on Computational Imaging, vol. 8, pp. 1195-1209, 2022, doi: 10.1109/TCI.2022.3233185. [[pdf](https://ieeexplore.ieee.org/abstract/document/10003995)]

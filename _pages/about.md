@@ -8,14 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Canberk Ekmekci (pronounced Jahn-burk Ehk-mehk-jee), a fourth-year Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.hajim.rochester.edu/ece/) at the [University of Rochester](https://www.rochester.edu/). I received my B.S. degree in [Electrical and Electronics Engineering](https://ee.ku.edu.tr/) from [Koc University](https://www.ku.edu.tr/), Istanbul, Turkey in 2019. I am currently conducting my research under the guidance of [Prof. Mujdat Cetin](https://scholar.google.com.tr/citations?user=nq7tuDkAAAAJ&hl=en) in the [Signal, Data, and Imaging Sciences (SDIS) Lab](https://labsites.rochester.edu/sdis/people/). As a part of collaborative projects, I also hold a secondary membership in the [University of Rochester Seismological Laboratory (URSeismo)](http://www.sas.rochester.edu/ees/urseismo/current-members/).
+Hello, I am Canberk Ekmekci (pronounced Jahn-burk Ehk-mehk-jee), a fifth-year Ph.D. student in the [Department of Electrical and Computer Engineering](https://www.hajim.rochester.edu/ece/) at the [University of Rochester](https://www.rochester.edu/). I received my B.S. degree in [Electrical and Electronics Engineering](https://ee.ku.edu.tr/) from [Koc University](https://www.ku.edu.tr/), Istanbul, Turkey in 2019. I am currently conducting my research under the guidance of [Prof. Mujdat Cetin](https://scholar.google.com.tr/citations?user=nq7tuDkAAAAJ&hl=en) in the [Signal, Data, and Imaging Sciences (SDIS) Lab](https://labsites.rochester.edu/sdis/people/). As a part of collaborative projects, I also hold a secondary membership in the [University of Rochester Seismological Laboratory (URSeismo)](http://www.sas.rochester.edu/ees/urseismo/current-members/).
 
-My research interests reside primarily in the field of computational imaging, with a specific focus on developing and analyzing algorithms for imaging inverse problems. Recently I focus on the following research topics:
-* Learning-based modeling for imaging applications
-* Plug-and-Play algorithms
-* Deep algorithmic unrolling for image reconstruction
-* Uncertainty characterization for imaging inverse problems
-* Automatic parameter tuning for imaging algorithms
+My research interests reside primarily in the field of computational imaging, with a specific focus on developing and analyzing algorithms for imaging inverse problems. Recently I focus on learning-based modeling for imaging applications, Plug-and-Play algorithms, deep algorithmic unrolling for image reconstruction, automatic parameter tuning for iterative image reconstruction algorithms, and uncertainty characterization for imaging inverse problems.
 
 News
 ---
