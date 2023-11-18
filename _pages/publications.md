@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+* Tolulope Olugboji, Ziqi Zhang, Steve Carr, **Canberk Ekmekci**, and Mujdat Cetin, "On the Detection of Upper Mantle Discontinuities with Radon-Transformed Ps Receiver Functions (CRISP-RF)", in Geophysical Journal International, 2023. [[pdf](https://doi.org/10.1093/gji/ggad447)]
 
 * **Canberk Ekmekci** and Mujdat Cetin, "Quantifying Generative Model Uncertainty in Posterior Sampling Methods for Computational Imaging," in NeurIPS 2023 Workshop on Deep Learning and Inverse Problems, 2023. [[pdf](https://openreview.net/forum?id=VqFHhTYonI)]
 
